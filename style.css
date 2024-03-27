@@ -1,0 +1,25 @@
+img{
+    height: 358px;
+    border-radius: 35px;
+    transition: transform 0.3s ease;
+}
+img:hover{
+    transform: scale(1.1);
+
+}
+.hedder{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(fotos/bacground.jpg);
+    background-repeat: no-repeat;
+}
+.fotog{
+    margin-top: 120px;
+}
+.text1:hover{
+    transition: transform 0.3s ease;
+    transform: scale(1.2);
+}
